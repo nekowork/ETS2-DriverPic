@@ -1,0 +1,5 @@
+material : "ui"
+{
+    texture : "98.tobj"
+    texture_name : "texture"
+}

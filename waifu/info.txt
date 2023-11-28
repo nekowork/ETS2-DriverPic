@@ -1,0 +1,11 @@
+Increases the number of drivers to hire to 570.
+
+This mod is made as an expansion to AvMark's additional drivers mod, which already provides about 500 drivers to hire. This expansion mod is adding several dozens of additional drivers on top of that.
+
+You need to activate this mod as well as the "AvMark additional drivers" mod for all 570 drivers to work properly.
+Set this mod to have higher priority above AvMark drivers during loading.
+
+The images of AI drivers used are:
+Driver 1 - 252:   Original SCS drivers
+Driver 253 - 510: Drivers added by AvMark additonal drivers
+Driver 511 - 570: New drivers
